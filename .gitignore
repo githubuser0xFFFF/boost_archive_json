@@ -16,3 +16,4 @@ bazel-boost_archive_json
 # Other files
 *.swp
 *.pyc
+CMakeLists.txt.user
